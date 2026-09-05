@@ -1,0 +1,8 @@
+{
+  "name": "Remix GBLP Character Animator",
+  "description": "Easily map and manage character animations like idle, walk, jump, and attack for your GBLP models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
